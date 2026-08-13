@@ -19,7 +19,7 @@ https://www.discogs.com/settings/developers
 # Quick Setup
 
 1. Install Python 3.14.
-2. Install the requests Lib.
+2. Open CMD and Run The Install Command Given in #Requirements to Install The requests Lib.
 3. Generate a Discogs Personal Access Token.
 4. Run the Script and Specify the Artist/Band/Group and Desired Release Type(s).
 
