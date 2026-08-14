@@ -11,7 +11,7 @@ from rich.table import Table
 from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn
 
-DISCOGS_TOKEN = "FBSuddDRwLLaEsvLhLrvdIvKmESrkOZqFqKpXpqp"
+DISCOGS_TOKEN = "Discogs_Token_Here"
 
 HEADERS = {
     "User-Agent": "Pycogs/1.1 (by TheMangler47)",
