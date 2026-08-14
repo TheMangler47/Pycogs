@@ -7,6 +7,10 @@ You can choose which release types to retrieve, including Albums, Singles & EPs,
 ```bash
 pip install requests
 ```
+- rich requests
+```bash
+pip install rich requests
+```
 - Python 3.14
 ```https
 https://www.python.org/downloads/
