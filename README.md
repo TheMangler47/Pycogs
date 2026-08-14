@@ -11,7 +11,7 @@ pip install requests
 ```bash
 pip install rich requests
 ```
-- Python 3.14
+- Python 3.12.11
 ```https
 https://www.python.org/downloads/
 ```
